@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ResetPassword_activity</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="icon">icon</string>
+    <string name="please_set_your_new_password">Please set your new password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="update_now">Update Now</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="please_provide_email_address_if_you_wish_to_reset_password">Please provide email address if you wish to reset password</string>
+    <string name="email_address">Email Address</string>
+    <string name="next">Next</string>
+</resources>
